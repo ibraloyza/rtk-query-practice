@@ -1,9 +1,10 @@
+import Movies from "./component/Movies"
 
 
 function App() {
   return (
     <div>
-      <p>hello somthing....</p>
+      <Movies />
     </div>
   )
 }
