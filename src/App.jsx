@@ -1,4 +1,5 @@
 import Movies from "./component/Movies"
+import React from "react"
 
 
 function App() {
