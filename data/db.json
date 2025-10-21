@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "title": "John Wick",
+      "description": "Retired assassin John Wick is pulled back into the criminal underworld when gangsters kill his beloved dog, a gift from his late wife. With his unmatched combat skills and a thirst for vengeance, Wick single-handedly takes on an entire criminal syndicate.",
+      "year": 2014,
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTBmNWFjMWUtYWI5Ni00NGI2LWFjN2YtNDE2ODM1NTc5NGJlXkEyXkFqcGc@._V1_.jpg",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "description": "Batman faces off against his archenemy, the Joker, a criminal mastermind who plunges Gotham City into chaos. As the Joker tests Batman’s limits, the hero must confront his own ethical dilemmas to save the city from destruction.",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Die Hard",
+      "description": "NYPD officer John McClane finds himself in a deadly hostage situation when a group of terrorists takes control of a Los Angeles skyscraper during a Christmas party. Armed only with his wit and a handgun, McClane must outsmart the heavily armed intruders to save his wife and others.",
+      "year": 1988,
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNlYmM1NmQtYWExMS00NmRjLTg5ZmEtMmYyYzJkMzljYWMxXkEyXkFqcGc@._V1_.jpg",
+      "id": "4"
+    },
+    {
+      "title": "Mission: Impossible – Fallout",
+      "description": "Ethan Hunt and his IMF team must track down stolen plutonium while being hunted by assassins and former allies. With incredible stunts and non-stop action sequences, Hunt races against time to prevent a global catastrophe.",
+      "year": 2018,
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk3NDY5MTU0NV5BMl5BanBnXkFtZTgwNDI3MDE1NTM@._V1_.jpg",
+      "id": "5"
+    },
+    {
+      "title": "Gladiator",
+      "description": "Betrayed by the Emperor’s son and left for dead, former Roman General Maximus rises as a gladiator to seek vengeance and restore honor to his family. His journey from slavery to becoming a champion captures the hearts of Rome’s citizens.",
+      "year": 2010,
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmExODVmMjItNzFlZC00MDA0LWJkYjctMmQ0ZTNkYTcwYTMyXkEyXkFqcGc@._V1_.jpg",
+      "id": "6"
+    }
+  ]
+}
